@@ -64,4 +64,5 @@ Available upon request.
 
 ---
 
-[Download my CV](path/to/your/CV.pdf)
+[Download my CV](https://github.com/AdrianUofT/website/blob/master/Adrian%20Ly%20CV.pdf)
+
