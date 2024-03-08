@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+My name is Adrian Ly. I am an aspiring statistician and undergraduate student at the University of Toronto, dedicated to deciphering the language of numbers to uncover the stories they tell. With a keen interest in both theoretical and applied statistics, I am also honing skills to not only analyze complex datasets but to also communicate the findings in a clear and impactful manner.
 
-```{r}
-1 + 1
-```
+As a proponent of data-driven decision-making, I am focused on developing expertise in statistical models and data visualization techniques. Through rigorous academic training and practical research experience, I am preparing for a future at the forefront of statistical analysis.
+
+I value collaboration and is always open to engaging in projects that challenge the status quo and contribute to the advancement of knowledge.

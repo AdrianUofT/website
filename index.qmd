@@ -1,7 +1,67 @@
 ---
-title: "Welcome to my site"
+title: "Adrian Ly"
+format: html
 ---
 
-I am a undergraduate at the Unviersity of Toronto studying statistics.
+# Welcome to my site
 
-You can contact me at adrian.ly@mail.utoronto.ca
+I am an undergraduate at the University of Toronto studying statistics. You can contact me at adrian.ly@mail.utoronto.ca
+
+## Curriculum Vitae
+
+### Personal Details
+
+- **Name:** Adrian Ly
+- **Email:** adrian.ly@mail.utoronto.ca
+- **LinkedIn:** [Click Here](https://www.linkedin.com/in/adrian-ly-7b86b7244/)
+
+### Objective
+
+Aspiring statistician seeking to leverage analytical skills and knowledge in statistical models to contribute to data-driven research and decision-making.
+
+### Education
+
+**University of Toronto**
+_Bachelor of Science in Statistics_ 
+Expected Graduation: [June, 2024]
+
+### Work Experience
+
+**Coding Instructor**
+_Code Ninjas_ 
+[Sep 2022] - [Dec 2022]
+
+- Teach kids how to code
+- Setup activities
+- Mark homework
+
+**Information Officer**
+_Elections Canada_ 
+[Sep 2021] - [Sep 2021]
+
+- Count votes for prime minister election
+- Setup and manage voting polls
+- Direct the flow of incoming voters
+- Verify the identity and voting eligibility of incoming voters
+
+### Skills
+
+- Statistical Analysis
+- Data Visualization
+- Programming Languages: R, Python, Java, C
+- Software: Photoshop, Premiere Pro, Microsoft Office
+
+
+### Publications
+
+- Ly, A. (2024). Toronto Crime Rates Investigation. [Link](https://github.com/AdrianUofT/Toronto-Crime-Rates-Investigation/blob/main/outputs/paper/paper.pdf)
+
+- Ly, A., Yu, H., & Goel. S. (2024). US Covid Analysis [Link](https://github.com/hannahyu07/US-Covid-Analysis/blob/main/outputs/paper/paper.pdf)
+
+### References
+
+Available upon request.
+
+---
+
+[Download my CV](path/to/your/CV.pdf)
