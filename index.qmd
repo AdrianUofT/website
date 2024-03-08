@@ -1,0 +1,7 @@
+---
+title: "Welcome to my site"
+---
+
+I am a undergraduate at the Unviersity of Toronto studying statistics.
+
+You can contact me at adrian.ly@mail.utoronto.ca
